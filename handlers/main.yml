@@ -1,1 +1,5 @@
-
+---
+# Handlers trigerred by tasks
+# - name: Handler name
+#   module_name:
+#     option: value
