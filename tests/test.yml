@@ -1,1 +1,9 @@
+---
+# Test file for ansible role
+ - name: Test Role Execution
+  hosts: all
+#  become: true
+#  gather_facts: true
 
+  roles:
+    - tasks/main.yml
