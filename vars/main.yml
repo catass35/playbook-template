@@ -1,1 +1,3 @@
-
+---
+# Variable with higher precedence
+# variable_name: value
