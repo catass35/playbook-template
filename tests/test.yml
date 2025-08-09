@@ -1,6 +1,6 @@
 ---
 # Test file for ansible role
- - name: Test Role Execution
+- name: Test Role Execution
   hosts: all
 #  become: true
 #  gather_facts: true
