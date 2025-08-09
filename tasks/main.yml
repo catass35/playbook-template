@@ -1,1 +1,5 @@
-
+---
+# Main list of tasks for this role
+# - name: Task name
+#   module_name:
+#     option: value
