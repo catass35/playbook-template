@@ -1,1 +1,3 @@
-
+---
+# Default variables (lowest-precedence)
+# variable_name: value
