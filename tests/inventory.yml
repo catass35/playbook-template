@@ -1,1 +1,6 @@
-
+---
+# Inventory file for runnning tests
+# all:
+#   hosts:
+#     test-instance:
+#       ansible_host: <IP_OR_HOSTNAME>
